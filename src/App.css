@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.css-1d9vfsi-MuiToolbar-root{
+    padding-left: 0 !important;
+    padding-right:0 !important;
+}
+.mtInfo{
+    margin-top: 2rem !important;
+}
